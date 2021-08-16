@@ -7,3 +7,5 @@ Just my hello-world repository as i'm fallowing the initial GitHub tutorial.
 - 💞️ I’m looking to collaborate on GitHub and Python.
 - 📫 You can reach me at raulgiron@hotmail.com
 - 📫 Feel free to reach me anytime you want.
+
+Just modify this file in my computer prior to upload it to GitHub.
