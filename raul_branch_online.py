@@ -2,4 +2,7 @@ def congratulation():
   print("Congratulations Raul Giron")
 
   
-congratulation()
+
+
+if __name__ == "__main__":
+  congratulation()
