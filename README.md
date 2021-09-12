@@ -1,5 +1,5 @@
 # hello-world
-Just my hello-world repository as i'm fallowing the initial GitHub tutorial. 
+Just my hello-world repository as i'm following the initial GitHub tutorial. 
 
 - 👋 Hi, I’m Raul Giron(hi/him)
 - 👀 I’m interested in learn GitHub.
